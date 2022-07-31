@@ -4,7 +4,7 @@
 <br>
 <h2>About Me<h2/>
   <ul>
-<li>🥳 I Love Coading<li/>
+<li>🥳 I Love Coding<li/>
 <li>🔥 My Favorite C Languages Are JavaScript and Python<li/>
 <li>🥶 I am an Anime Addict <li/>
 <li>😈 I am a Certified Ethical Hacker<li/>
