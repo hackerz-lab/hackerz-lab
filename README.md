@@ -13,8 +13,8 @@
     
 <h2> Learning </h2>
 <br>
-* [![NodeJS][Node.js]][Nodejs-url]
-* [![Next][Next.js]][Next-url]
+* [![Angular][Angular.io]][Angular-url]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
