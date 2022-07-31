@@ -1,19 +1,19 @@
-<h1>Hi There I am Martin Saji. Nice To Meet Ya!<h2/>
+<h1>Hi There I am Martin Saji. Nice To Meet Ya!</h2>
 <br>
 <img src="https://c.tenor.com/7GgfegR83eIAAAAC/ichigo-kurosaki-final-getsuga-tenshou.gif" alt="Martin-Sensai">
 <br>
-<h2>About Me<h2/>
+<h2>About Me</h2>
   <ul>
-<li>🥳 I Love Coding<li/>
-<li>🔥 My Favorite C Languages Are JavaScript and Python<li/>
-<li>🥶 I am an Anime Addict <li/>
-<li>😈 I am a Certified Ethical Hacker<li/>
-    <ul/>
+<li>🥳 I Love Coding</li>
+<li>🔥 My Favorite C Languages Are JavaScript and Python</li>
+<li>🥶 I am an Anime Addict </li>
+<li>😈 I am a Certified Ethical Hacker</li>
+    </ul>
 <br>
     
-<marquee behavior="alternate" direction="up" width="80%"><marquee direction="right">YOUR TEXT HERE</marquee></marquee>
-
-
+<h2> Learning </h2>
+<br>
+* [![Nodejs] [Node.js] [Node-url]
 
 
 
