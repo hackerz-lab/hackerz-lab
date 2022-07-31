@@ -11,19 +11,19 @@
     <ul/>
 <br>
     
-    <p><script type="text/javascript">
+<marquee behavior="alternate" direction="up" width="80%"><marquee direction="right">YOUR TEXT HERE</marquee></marquee>
 
-function NAME_IT() {window.open('http://www.computerhope.com/cgi-bin/search.cgi','EANITHING','toolbar=no,location=no, directories=no, status=yes, menubar=no, resizable=yes,
 
-copyhistory=no, scrollbars=no, width=300, height=300');}
 
-</p>
 
-<p align="center">
 
-<a href="javascript:NAME_IT();"SEARCH ENGINE </a>
 
-</p>
+
+
+
+
+
+
     
 <a href="https://wa.me/918606088752"><img src="https://img.shields.io/badge/Contact Hackerz-Lab-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
