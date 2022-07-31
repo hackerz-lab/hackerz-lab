@@ -13,7 +13,8 @@
     
 <h2> Learning </h2>
 <br>
-* [![Nodejs][Node.js][Node-url]
+* [![NodeJS][Node.js]][Nodejs-url]
+* [![Next][Next.js]][Next-url]
 
 
 
