@@ -1,41 +1,29 @@
-<h1>Hi There I am Martin Saji. Nice To Meet Ya!</h2>
-<br>
-<img src="https://c.tenor.com/7GgfegR83eIAAAAC/ichigo-kurosaki-final-getsuga-tenshou.gif" alt="Martin-Sensai">
-<br>
-<h2>About Me</h2>
-  <ul>
-<li>🥳 I Love Coding</li>
-<li>🔥 My Favorite C Languages Are JavaScript and Python</li>
-<li>🥶 I am an Anime Addict </li>
-<li>😈 I am a Certified Ethical Hacker</li>
-    </ul>
-<br>
-    
-### Built With
+# Welcome to Marttin Saji's Profile!
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+![Welcome](https://i.imgur.com/AfFp7pu.png)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+### Hello there! 👋
+Welcome to my GitHub profile! I'm Marttin Saji, a tech enthusiast and aspiring developer with a passion for exploring new technologies and building amazing projects. Let's create something awesome together! 🚀
 
+## About Me
+- 🌟 **Interests**: I'm deeply interested in:
+  - Python 🐍
+  - JavaScript 🌐
+  - TypeScript 📜
+  - Node.js ⚙️
+  - Artificial Intelligence 🤖
+  - Networking 🌐
+  - Other Languages: C++, Java, HTML, CSS, Bash, SQL, and more!
+- 🌱 Currently learning and experimenting with **Bug Bounty Hunting** and advanced **AI models**.
+- 💻 Experienced in web development, automation, and driving innovative solutions.
 
+## Let’s Connect
+- 📧 **Email**: [Martinsaji26@gmail.com](mailto:Martinsaji26@gmail.com)
+- 🌐 **LinkedIn**: [Marttin Saji](https://www.linkedin.com/in/martinsaji26) *(Replace this with your LinkedIn URL)*
+- 🐦 **Twitter**: [Conqueror Boy](https://twitter.com/Conqueror_boy17) *(Replace this with your Twitter handle)*
 
+Feel free to explore my repositories, fork, star ⭐, and collaborate on exciting projects!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+---
 
-
-
-
-
-
-
-
-    
-<a href="https://wa.me/918606088752"><img src="https://img.shields.io/badge/Contact Hackerz-Lab-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+_“Keep pushing the boundaries of what's possible. The future is limitless!”_ ✨
